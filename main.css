@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap");
+
+body {
+  font-family: "Libre Baskerville", serif;
+}
+
+.container {
+  max-width: 500px;
+}
+
+.clock {
+  display: flex;
+}
+
+.badge {
+  background-color: #7a9d54;
+}
+
+.card-header,
+.card-footer {
+  background-color: #557a46;
+  color: white;
+}
